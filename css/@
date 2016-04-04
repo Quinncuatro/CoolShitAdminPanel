@@ -1,0 +1,16 @@
+.court-header { background-color: #840B02; }
+.nav-bar { background-color: #0E3567; }
+body { background-color: #DDD; }
+.form-panel { background-color: #F1EDE2; }
+.panel-primary { background-image: none; background-color: #F1EDE2 !important;}
+.vcenter { padding-top: 16%; }
+textarea:focus, input:focus, input[type]:focus, .uneditable-input:focus {   
+    border-color: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 1px 1px rgba(255, 255, 255, .075) inset, 0 0 20px rgba(255, 255, 255, 1);
+    outline: 0 none; }
+.table { color: #E0E0E0; 
+    background-color: #0E3567; }
+.th { color: #ffffff; }
+.td { color: #000000; word-break:break-all; }
+.btn { white-space: normal !important; }
+.error { color: #FF0000; }

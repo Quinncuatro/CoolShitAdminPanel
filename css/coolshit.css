@@ -1,0 +1,40 @@
+body {
+	background-color: #424242;
+	color: #fff;
+}
+
+.nav-bar .btn {
+	background-color: #355366;
+	color: #fff;
+	border: 0px;
+}
+
+.nav-bar .btn:hover {
+	background-color: #fff;
+	color: #355366;
+}
+
+.coolshit_header {
+	background-color: #424242;
+	border-bottom: 4px solid #B3B3B3;
+}
+
+.well {
+	margin-top: 10px;
+	color: #E0E0E0;
+	background-color: #355366;
+}
+
+.moreForm {
+	animation-duration: 2s;
+}
+
+p {
+	color: #fff;
+}
+
+.nav-bar {
+	background-color: #355366;
+	border-bottom: 4px solid #B3B3B3;
+}
+
