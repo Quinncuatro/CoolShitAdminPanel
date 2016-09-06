@@ -1,1 +1,1 @@
-# CoolShitAdminPanel
+# CoolStuffAdminPanel
